@@ -1,4 +1,4 @@
-# ZEYN-FRAMIEN-burger
+# ZEYN-FRAMIEN-BURGER
 
 ## Website to order food fast & secure.
 
